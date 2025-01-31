@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://abigjuicyburger.github.io/Admin-Dashboard/](https://abigjuicyburger.github.io/Admin-Dashboard/)
 
-- 📝 I regularly write articles on [hell no I don't](hell no I don't)
-
 - 💬 Ask me about **Web development, React, JavaScript.**
 
 - 📫 How to reach me **muhssinbader@gmail.com**
