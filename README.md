@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abigjuicyburger&label=Profile%20views&color=0e75b6&style=flat" alt="abigjuicyburger" /> </p>
 
-- 🔭 I’m currently working on [Hermes40, Combining a job board w/ interactive map.](https://github.com/ABigJuicyBurger/Hermes)
+- 🔭 I’m currently working on [JobCompass, Combining a job board w/ interactive map.](https://github.com/ABigJuicyBurger/JobCompass)
 
 - 🌱 I’m currently learning **Node.JS!**
 
