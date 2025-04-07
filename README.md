@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [JobCompass, Combining a job board w/ interactive map.](https://github.com/ABigJuicyBurger/JobCompass)
 
-- 🌱 I’m currently learning **Node.JS!**
+- 🌱 I’m currently learning **Python + Data Science**
 
 - 🤝 I’m looking for help with **Life**
 
