@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Python + Data Science**
 
-- 🤝 I’m looking for help with **Life**
-
 - 👨‍💻 All of my projects are available at [https://abigjuicyburger.github.io/Admin-Dashboard/](https://abigjuicyburger.github.io/Admin-Dashboard/)
 
 - 💬 Ask me about **Web development, React, JavaScript.**
