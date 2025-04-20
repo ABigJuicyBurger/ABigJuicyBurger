@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python + Data Science**
 
-- 👨‍💻 All of my projects are available at [https://abigjuicyburger.github.io/Admin-Dashboard/](https://abigjuicyburger.github.io/Admin-Dashboard/)
+- 👨‍💻 All of my projects are available at [https://bader-portfolio.netlify.app/](https://bader-portfolio.netlify.app/)
 
 - 💬 Ask me about **Web development, React, JavaScript.**
 
