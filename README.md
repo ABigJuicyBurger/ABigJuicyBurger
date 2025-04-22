@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bader!</h1>
 <h3 align="center">Recent graduate with a passion for web development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abigjuicyburger&label=Profile%20views&color=0e75b6&style=flat" alt="abigjuicyburger" /> </p>
 
 - 🔭 I’m currently working on [JobCompass, Combining a job board w/ interactive map.](http://jobcompass.duckdns.org/)
 
