@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **muhssinbader@gmail.com**
 
-- 📄 Know about my experiences [here](https://docs.google.com/document/d/1j_jXjum5oV5x_xswpASza5gVht8n8bgp97VLNeIhKB0/edit?tab=t.0)
-
 - ⚡ Fun fact **Absolutely love salsa dancing and playing the piano.**
 
 <h3 align="left">Connect with me:</h3>
