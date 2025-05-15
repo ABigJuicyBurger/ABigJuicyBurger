@@ -2,7 +2,7 @@
 <h3 align="center">Recent graduate with a passion for web development.</h3>
 
 
-- 🔭 I’m currently working on [JobCompass, Combining a job board w/ interactive map.](http://jobcompass.duckdns.org/)
+- 🔭 I’m currently working on [JobCompass, Combining a job board w/ interactive map.](https://jobcompass-demo.netlify.app/)
 
 - 🌱 I’m currently learning **Python + Data Science**
 
